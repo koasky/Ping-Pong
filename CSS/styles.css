@@ -1,0 +1,30 @@
+h1{
+font-weight: bold;
+text-align: center;
+padding-top: 60px;
+}
+.koa{
+  width:100%;
+  height: 200px;
+  background-color:#DDB596;
+}
+.sawa{
+  width: 300px;
+  height: 600px;
+  background-color: #8AC58C;
+  margin-top: 25px;
+}
+#by{
+  font-weight: bold;
+  font-family: helvetica;
+  color: white;
+}
+#hub{
+  font-weight: bold;
+  font-family: helvetica;
+  color: white;
+}
+
+.play{
+  margin-top: 40px;
+}
